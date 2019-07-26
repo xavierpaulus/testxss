@@ -5,7 +5,3 @@ php:
 
 before-script:
   - compose install --no-installation
-
-
-script:
-  - vendor/bin/phpunit
